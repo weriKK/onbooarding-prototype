@@ -3,7 +3,7 @@ package app
 import (
 	"encoding/json"
 	"net/http"
-	"oblib/internal/onboarding"
+	"onbooarding-prototype/internal/onboarding"
 )
 
 type MontePolicyConfigJSON struct {

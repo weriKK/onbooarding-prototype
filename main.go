@@ -2,8 +2,8 @@ package main
 
 import (
 	"net/http"
-	"oblib/internal/app"
-	"oblib/internal/onboarding"
+	"onbooarding-prototype/internal/app"
+	"onbooarding-prototype/internal/onboarding"
 
 	"github.com/gorilla/mux"
 )

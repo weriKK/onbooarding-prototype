@@ -3,7 +3,7 @@ package app
 import (
 	"fmt"
 	"net/http"
-	"oblib/internal/onboarding"
+	"onbooarding-prototype/internal/onboarding"
 	"time"
 )
 
